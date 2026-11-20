@@ -1,0 +1,4 @@
+scenario_id,nome_cenario,lambda,m,K,T_arr,T_srv,Throughput,MeanResponseTime,MeanQueueTime,Utilization,DropProbability
+E4_1,Baixa Demanda / Economico,10,2,8,0.1,0.1,10.0018,0.1333,0.0333,50.0088,0.0
+E4_2,Demanda Padrao / Nominal,30,4,16,0.0333,0.1,29.8698,0.1448,0.0448,74.6745,0.0039
+E4_3,Alta Demanda / Performance,40,8,32,0.025,0.1,39.9738,0.1014,0.0014,49.9672,0.0002

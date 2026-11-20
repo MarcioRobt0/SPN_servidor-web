@@ -1,0 +1,4 @@
+scenario_id,lambda,m,K,T_arr,T_srv,Throughput,MeanResponseTime,MeanQueueTime,Utilization,DropProbability
+E2_1,30,2,15,0.0333,0.1,19.9783,0.6528,0.5528,99.8916,0.3355
+E2_2,30,4,15,0.0333,0.1,29.854,0.144,0.044,74.6349,0.0055
+E2_3,30,8,15,0.0333,0.1,30.0095,0.1003,0.0003,37.5119,0.0
